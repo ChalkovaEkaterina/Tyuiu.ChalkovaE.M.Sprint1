@@ -12,7 +12,7 @@ namespace Tuyiu.ChalkovaE.M.Sprint1.Task1.V7.Lib
     {
         public double VerstsToKilometers(double verst)
         {
-            return verst * 1.0668;
+            return (verst * 1.0668);
         }
     }
 }
